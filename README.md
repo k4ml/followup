@@ -1,4 +1,4 @@
-Provide similar functionalities as offered by [FollowUpThen.com][1] and
+Provide similar features as offered by [FollowUpThen.com][1] and
 [FollowUp.cc][2]. This script should be run both as email handler and also
 under cron.
 

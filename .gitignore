@@ -1,0 +1,4 @@
+config.ini
+*.pyc
+data.db
+log.txt
